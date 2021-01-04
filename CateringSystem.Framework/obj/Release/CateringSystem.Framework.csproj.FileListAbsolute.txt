@@ -1,0 +1,6 @@
+D:\GhorerKhabar\CateringSystem.Framework\bin\Release\CateringSystem.Framework.dll
+D:\GhorerKhabar\CateringSystem.Framework\bin\Release\CateringSystem.Framework.pdb
+D:\GhorerKhabar\CateringSystem.Framework\obj\Release\CateringSystem.Framework.csprojAssemblyReference.cache
+D:\GhorerKhabar\CateringSystem.Framework\obj\Release\CateringSystem.Framework.csproj.CoreCompileInputs.cache
+D:\GhorerKhabar\CateringSystem.Framework\obj\Release\CateringSystem.Framework.dll
+D:\GhorerKhabar\CateringSystem.Framework\obj\Release\CateringSystem.Framework.pdb

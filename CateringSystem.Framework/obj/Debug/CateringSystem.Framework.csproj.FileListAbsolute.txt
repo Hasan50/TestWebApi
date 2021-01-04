@@ -1,0 +1,12 @@
+D:\GhorerKhabar\CateringSystem.Framework\bin\Debug\CateringSystem.Framework.dll
+D:\GhorerKhabar\CateringSystem.Framework\bin\Debug\CateringSystem.Framework.pdb
+D:\GhorerKhabar\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.csproj.CoreCompileInputs.cache
+D:\GhorerKhabar\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.dll
+D:\GhorerKhabar\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.pdb
+D:\GhorerKhabar\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.csprojAssemblyReference.cache
+E:\testing\TestWebApi\CateringSystem.Framework\bin\Debug\CateringSystem.Framework.dll
+E:\testing\TestWebApi\CateringSystem.Framework\bin\Debug\CateringSystem.Framework.pdb
+E:\testing\TestWebApi\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.csprojAssemblyReference.cache
+E:\testing\TestWebApi\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.csproj.CoreCompileInputs.cache
+E:\testing\TestWebApi\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.dll
+E:\testing\TestWebApi\CateringSystem.Framework\obj\Debug\CateringSystem.Framework.pdb
