@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Framework", "ToDoApp.Framework\ToDoApp.Framework.csproj", "{58DE1672-84EF-490C-866D-4DED4D223DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Business", "ToDoApp.Business\ToDoApp.Business.csproj", "{C1B5A9CD-C93D-4C0D-82CC-3DCB10FEB535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.WebApi", "ToDoApp.WebApi\ToDoApp.WebApi.csproj", "{3DD0E3A5-CC80-4212-B677-DFD70875B2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DE1672-84EF-490C-866D-4DED4D223DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DE1672-84EF-490C-866D-4DED4D223DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DE1672-84EF-490C-866D-4DED4D223DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DE1672-84EF-490C-866D-4DED4D223DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B5A9CD-C93D-4C0D-82CC-3DCB10FEB535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B5A9CD-C93D-4C0D-82CC-3DCB10FEB535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B5A9CD-C93D-4C0D-82CC-3DCB10FEB535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B5A9CD-C93D-4C0D-82CC-3DCB10FEB535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD0E3A5-CC80-4212-B677-DFD70875B2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD0E3A5-CC80-4212-B677-DFD70875B2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD0E3A5-CC80-4212-B677-DFD70875B2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD0E3A5-CC80-4212-B677-DFD70875B2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB9355C-0EF2-4FFD-9D82-BFB09C26E7E8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://abulhasan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ToDoApp.Framework\\ToDoApp.Framework.csproj
+		SccProjectName1 = ToDoApp.Framework
+		SccLocalPath1 = ToDoApp.Framework
+		SccProjectUniqueName2 = ToDoApp.Business\\ToDoApp.Business.csproj
+		SccProjectName2 = ToDoApp.Business
+		SccLocalPath2 = ToDoApp.Business
+		SccProjectUniqueName3 = ToDoApp.WebApi\\ToDoApp.WebApi.csproj
+		SccProjectName3 = ToDoApp.WebApi
+		SccLocalPath3 = ToDoApp.WebApi
+	EndGlobalSection
+EndGlobal

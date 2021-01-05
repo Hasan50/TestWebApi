@@ -1,0 +1,6 @@
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\bin\Debug\ToDoApp.Framework.dll
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\bin\Debug\ToDoApp.Framework.pdb
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\obj\Debug\ToDoApp.Framework.csprojAssemblyReference.cache
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\obj\Debug\ToDoApp.Framework.csproj.CoreCompileInputs.cache
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\obj\Debug\ToDoApp.Framework.dll
+D:\HasanProject\Demo\TestWebApi\ToDoApp.Framework\obj\Debug\ToDoApp.Framework.pdb
